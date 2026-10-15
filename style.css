@@ -1,0 +1,26 @@
+body {
+    background-color: #0D031B;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.75em;
+}
+
+h1, h2, h3 {
+    color: #DA70D6;
+}
+h4 {
+    color: #9370DB;
+    text-transform: capitalize;
+}
+h5 {
+    color: #0AFFFF;
+}
+
+li {
+    margin-bottom: 1.15em;
+}
+
+.def {
+    color: #FF69B4;
+}
+
